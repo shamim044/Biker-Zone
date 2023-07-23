@@ -1,0 +1,23 @@
+.banner .slide-contant button,
+nav .navbar .btn{
+    border: 0;
+    background-color: #E76F51;
+}
+.banner .slide-contant button,
+nav .navbar .btn:hover{
+    background-color: #E76F51;
+    border: 0;
+}
+.latest-news-section .card .card-actions button{
+    border: 1px solid #e76f51;
+    background-color: transparent;
+    color: #e76f51;
+    transition: .3s;
+}
+.latest-news-section .card .card-actions button:hover{
+    background-color: #E76F51;
+    color: #fff;
+}
+.latest-news-section .card{
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+}
